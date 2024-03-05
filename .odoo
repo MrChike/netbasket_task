@@ -1,6 +1,0 @@
-# General
-# ------------------------------------------------------------------------------
-USE_DOCKER=yes
-IPYTHONDIR=/app/.ipython
-ODOO_RC=/etc/odoo/odoo.conf
-ODOO_HTTP_SOCKET_TIMEOUT=10
