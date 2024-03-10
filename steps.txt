@@ -1,0 +1,5 @@
+docker compose build project
+provide chmod access to source files - providing permission access
+run `docker-compose -f docker-compose.yml run --rm postgres attach_db` to restore db
+initialize database docker-compose run --rm odoo /init
+https://github.com/odoo/odoo/blob/16.0/addons/product/data/product_data.xml
